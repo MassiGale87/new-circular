@@ -1,0 +1,2 @@
+class OwnerOffer < ApplicationRecord
+end
